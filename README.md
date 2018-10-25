@@ -1,5 +1,5 @@
 # Trump-Twitter-Analysis
-The purpose of this workbook was to analyzing the text data of Trump's tweets from November 7th, 2016 (the day before the election) until now. 
+The purpose of this workbook was to analyze the text data of Trump's tweets from November 7th, 2016 (the day before the election) until now. 
 
 # Major Conclusions
 There has been much reported about Trump's television habits, even in the White House - most notably that he spends a significant portion of each day watching primetime news about himself. This data, along with other sources, can verify those reports. 
